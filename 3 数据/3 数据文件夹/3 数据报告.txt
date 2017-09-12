@@ -1,0 +1,39 @@
+创建的报告: 
+	2017/9/4	13:48:51
+
+项目名: 3 数据.aep
+
+将源文件收集到: 
+	C:\Users\Administrator\Desktop\3 数据\3 数据文件夹
+
+收集的源文件: 全部
+
+收集的合成: 
+	合成 1
+	
+收集的文件数: 13
+
+收集的文件大小: 436 KB
+
+收集的源文件: 
+	C:\Users\Administrator\Desktop\3数据\1.png
+	C:\Users\Administrator\Desktop\3数据\3数据中心.jpg
+	C:\Users\Administrator\Desktop\3数据\btn_famliy.png
+	C:\Users\Administrator\Desktop\3数据\icon_bloodpressure.png
+	C:\Users\Administrator\Desktop\3数据\icon_heart.png
+	C:\Users\Administrator\Desktop\3数据\割线.png
+	C:\Users\Administrator\Desktop\3数据\圆角矩形-17.png
+	C:\Users\Administrator\Desktop\3数据\底盘.png
+	C:\Users\Administrator\Desktop\3数据\旋钮.png
+	C:\Users\Administrator\Desktop\Output\bg.png
+	C:\Users\Administrator\Desktop\Output\down_banner-.png
+	C:\Users\Administrator\Desktop\Output\椭圆-623-拷贝-4.png
+	C:\Users\Administrator\Desktop\Output\组-17.png
+	
+渲染增效工具:
+	经典 3D
+	
+图层: 文本图层
+	外部依存关系: 
+		字体系列:“Adobe Heiti Std”，字体样式:“R”
+
