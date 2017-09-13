@@ -1,0 +1,25 @@
+创建的报告: 
+	2017/9/13	15:16:35
+
+项目名: 身份认证.aep
+
+将源文件收集到: 
+	C:\Users\Administrator\Desktop\身份认证\身份认证文件夹
+
+收集的源文件: 全部
+
+收集的合成: 
+	合成 1
+	合成 2
+	
+收集的文件数: 2
+
+收集的文件大小: 574 KB
+
+收集的源文件: 
+	C:\Users\Administrator\Desktop\5_1_3身份认证.jpg
+	C:\Users\Administrator\Desktop\5_1_3身份认证2.jpg
+	
+渲染增效工具:
+	经典 3D
+	

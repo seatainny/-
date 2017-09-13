@@ -1,0 +1,27 @@
+创建的报告: 
+	2017/9/12	17:59:02
+
+项目名: 心率界面动画.aep
+
+将源文件收集到: 
+	C:\Users\Administrator\Desktop\xin\心率界面动画文件夹
+
+收集的源文件: 全部
+
+收集的合成: 
+	合成 1
+	
+收集的文件数: 5
+
+收集的文件大小: 762 KB
+
+收集的源文件: 
+	C:\Users\Administrator\Desktop\123.png
+	C:\Users\Administrator\Desktop\Output\心率背景.png
+	C:\Users\Administrator\Desktop\Output\椭圆-28-拷贝-2.png
+	C:\Users\Administrator\Desktop\Output\椭圆-28-拷贝.png
+	H:\手表端\3_2心率详情\3_2心率详情.jpg
+	
+渲染增效工具:
+	经典 3D
+	
